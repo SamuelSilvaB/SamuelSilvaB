@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b815e4&height=120&section=header"/>
 
- 
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
