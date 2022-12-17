@@ -1,5 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b815e4&height=120&section=header"/>
-
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b815e4&height=120&section=header"/> -->
+  
+  
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
