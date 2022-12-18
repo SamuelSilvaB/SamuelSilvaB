@@ -5,10 +5,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/SamuelSilvaB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelSilvaB&bg_color=30,b815e4,090979&title_color=fff&text_color=fff"/>
-</div> 
+</div>  -->
+
+ 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=SamuelSilvaB&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=30,b815e4,090979" alt="Caroline Barbosa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilvaB&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=30,b815e4,090979" />
 
   
 
