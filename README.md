@@ -5,10 +5,10 @@
 <!-- Tezt colo = 295e2a -->
 
 
-  
+<!--   
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+</div> -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=OI!!,+Meu+nome+é+Samuel+Silva;Tenho+23+anos;E+estudo+Ciências+da+Computação;Sejão+bem+vindos!!+:%29)](https://git.io/typing-svg)
 
