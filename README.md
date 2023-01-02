@@ -1,4 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b4deb9&height=120&section=header"/>
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b4deb9&height=120&section=header"/> -->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5f2d,100:97bc62ff&height=120&section=header"/>
 
 <!-- Gradient color`s =  849b5c,bfffc7  -->
 <!-- Text colo = 295e2a -->
@@ -38,4 +40,4 @@ Olá! Meu nome é Samuel. Eu sou estudante de Ciência da Computação na [Unive
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b4deb9&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:97bc62ff,100:2c5f2d&height=120&section=footer"/>
