@@ -15,9 +15,9 @@
 
 <div align="center">
   <a href="https://github.com/SamuelSilvaB">
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=SamuelSilvaB&bg_color=30,2c5f2d,97bc62ff&title_color=fff&text_color=fff"/>
+  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api?username=SamuelSilvaB&bg_color=30,2c5f2d,97bc62ff&title_color=fff&text_color=fff"/>
   <a href="https://github.com/SamuelSilvaB">
-  <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilvaB&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=30,97bc62,2c5f2d" />
+  <img width="40%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelSilvaB&layout=compact&hide_border=true&title_color=fff&text_color=fff&bg_color=30,97bc62,2c5f2d" />
 </div> 
   
 ## 👩‍💻 Quem sou eu 👩‍💻
